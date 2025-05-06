@@ -1,0 +1,40 @@
+{
+  "wall_thickness": [
+    "safe",
+    0.1,
+    0.4
+  ],
+  "window_ratio": [
+    "belong",
+    0.2,
+    0.7
+  ],
+  "green_patio": [
+    "nature",
+    0,
+    1
+  ],
+  "shared_table": [
+    "share",
+    0,
+    1
+  ],
+  "privacy_screen": [
+    "privacy",
+    0,
+    1
+  ],
+  "auto_door": [
+    "convenient",
+    0,
+    1
+  ],
+  "palette": [
+    "#e57373",
+    "#64b5f6",
+    "#81c784",
+    "#ffd54f",
+    "#ba68c8",
+    "#4dd0e1"
+  ]
+}

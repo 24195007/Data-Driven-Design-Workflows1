@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cluster-1",
+    "name": "nan",
+    "price": 700.0,
+    "width": 3.0,
+    "depth": 3.0,
+    "height": 2.8,
+    "safe": 0.809,
+    "belong": 0.582,
+    "nature": 0.655,
+    "share": 0.555,
+    "privacy": 0.636,
+    "convenient": 0.682,
+    "img": "img_0090.jpg"
+  },
+  {
+    "id": "cluster0",
+    "name": "nan",
+    "price": 500.0,
+    "width": 3.0,
+    "depth": 3.0,
+    "height": 2.8,
+    "safe": 0.785,
+    "belong": 0.577,
+    "nature": 0.655,
+    "share": 0.582,
+    "privacy": 0.572,
+    "convenient": 0.712,
+    "img": "img_0000.jpg"
+  },
+  {
+    "id": "cluster1",
+    "name": "nan",
+    "price": 800.0,
+    "width": 3.0,
+    "depth": 3.0,
+    "height": 2.8,
+    "safe": 0.793,
+    "belong": 0.636,
+    "nature": 0.821,
+    "share": 0.564,
+    "privacy": 0.607,
+    "convenient": 0.671,
+    "img": "img_0076.jpg"
+  }
+]

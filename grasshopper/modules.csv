@@ -1,0 +1,4 @@
+﻿id,name,price,width,depth,height,safe,belong,nature,share,privacy,convenient,img
+cluster-1,nan,700.0,3.0,3.0,2.8,0.809,0.582,0.655,0.555,0.636,0.682,img_0090.jpg
+cluster0,nan,500.0,3.0,3.0,2.8,0.785,0.577,0.655,0.582,0.572,0.712,img_0000.jpg
+cluster1,nan,800.0,3.0,3.0,2.8,0.793,0.636,0.821,0.564,0.607,0.671,img_0076.jpg
